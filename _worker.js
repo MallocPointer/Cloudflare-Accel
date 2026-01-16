@@ -33,7 +33,8 @@ const ALLOWED_HOSTS = [
   'google.com',
   'colab.research.google.com',
   'x.com',
-  'dash.cloudflare.com'
+  'dash.cloudflare.com',
+  'docker.io'
 ];
 
 // RESTRICT_PATHS: 控制是否限制 GitHub 和 Docker 请求的路径。
